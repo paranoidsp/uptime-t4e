@@ -13,7 +13,6 @@ status-website:
   baseUrl: /uptime-t4e
   name: Uptime for T4E
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
   introTitle: "Uptime monitoring for the TIME website"
   introMessage: 
   navbar:
