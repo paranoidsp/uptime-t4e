@@ -4,7 +4,7 @@
     "url": "https://www.time4education.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.time4education.com.ico",
     "slug": "time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,9 +12,11 @@
     "uptimeYear": "100.00%",
     "time": 2379,
     "timeDay": 1876,
-    "timeWeek": 2284,
+    "timeWeek": 2186,
     "timeMonth": 2430,
     "timeYear": 2379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-24": 0
+    }
   }
 ]
