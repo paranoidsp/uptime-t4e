@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.time4education.com.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 2350,
-    "timeDay": 1806,
-    "timeWeek": 2524,
-    "timeMonth": 2404,
-    "timeYear": 2350,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2578,
+    "timeDay": 10517,
+    "timeWeek": 5268,
+    "timeMonth": 3183,
+    "timeYear": 2578,
     "dailyMinutesDown": {
-      "2023-09-24": 10
+      "2023-09-24": 0
     }
   }
 ]
