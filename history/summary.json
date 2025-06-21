@@ -1,22 +1,22 @@
 [
   {
     "name": "TIME",
-    "url": "https://www.time5education.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.time5education.com.ico",
+    "url": "https://www.time4education.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.time4education.com.ico",
     "slug": "time",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2329,
-    "timeDay": 3544,
-    "timeWeek": 3544,
-    "timeMonth": 3544,
-    "timeYear": 2058,
+    "time": 2333,
+    "timeDay": 3370,
+    "timeWeek": 3370,
+    "timeMonth": 3370,
+    "timeYear": 2071,
     "dailyMinutesDown": {
-      "2025-06-21": 16,
+      "2025-06-21": 17,
       "2024-09-17": 26
     }
   }
