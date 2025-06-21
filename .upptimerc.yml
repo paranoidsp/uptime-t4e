@@ -4,7 +4,7 @@ repo: uptime-t4e # The name of this repository
 
 sites:
   - name: TIME
-    url: https://www.time4education.com/
+    url: https://www.time5education.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +17,7 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /
+      href: /uptime-t4e
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
